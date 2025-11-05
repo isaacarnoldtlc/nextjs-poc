@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/thelott-next/:/",
-    "/content/thelott-next/configuration:/.helix/config.json",
-    "/content/thelott-next/metadata:/metadata.json"
+    "/content/solidmonkey08171/:/",
+    "/content/solidmonkey08171/configuration:/.helix/config.json",
+    "/content/solidmonkey08171/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/thelott-next/"
+    "/content/solidmonkey08171/"
   ]
 }
